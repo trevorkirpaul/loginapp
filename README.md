@@ -6,3 +6,7 @@ I've been learning `node.js` recently as well as `mongoDB`. This is my first pro
 
 Initial Commit
 > Server, routes, styling via bootstrap, forms and the main sites have been created.
+
+## OCT 17 2017
+
+>I added a .gitignore mainly for the dependencies directory. I'm pretty sure this is the accepted way of uploading node projects on git. This means less files to clone and all you need to do is run `npm install` afterwards to get up to date dependencies from the source (with the exception of one specificed module).
